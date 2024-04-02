@@ -1,1 +1,1 @@
-# S8056_OVH_OpenBMC
+# S8056_OpenBMC
